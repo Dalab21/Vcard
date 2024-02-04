@@ -12,8 +12,10 @@
 	 transition: color 0.35s ease-in-out;
 }
  a:hover {
-	 color: #00a7c9;
+	 color: #6eb0bd;
 }
+
+
  .card {
 	 position: absolute;
 	 top: 50%;
